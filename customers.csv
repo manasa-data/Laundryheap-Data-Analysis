@@ -1,0 +1,501 @@
+customer_id,customer_name,email,phone,area,city,signup_date,gender,customer_type
+CUST0001,Vinaya Khurana,wshere@example.org,9.10521E+11,Indiranagar,Bangalore,11-05-2024,Male,Regular
+CUST0002,Wriddhish Krish,krishasamra@example.net,288192806,HSR Layout,Bangalore,10-07-2023,Male,Regular
+CUST0003,Onkar Bal,xiti59@example.org,9.18216E+11,Hebbal,Bangalore,09-06-2024,Other,Regular
+CUST0004,Chandani Pingle,karaliam@example.com,4011752837,Koramangala,Bangalore,24-11-2023,Male,Regular
+CUST0005,Amrita Patla,harita23@example.net,9966274843,Yelahanka,Bangalore,30-06-2023,Other,Regular
+CUST0006,Chakradev Sankaran,walionkar@example.com,7084045507,Hebbal,Bangalore,04-06-2023,Other,Regular
+CUST0007,Rachit Bakshi,zayan28@example.org,9.17471E+11,HSR Layout,Bangalore,22-11-2023,Female,Regular
+CUST0008,Keya Issac,ozarohan@example.org,4660628221,Koramangala,Bangalore,20-09-2024,Male,Regular
+CUST0009,Balendra Balakrishnan,upma25@example.com,741361235,Jayanagar,Bangalore,22-09-2023,Male,Regular
+CUST0010,Harsh Aggarwal,charita81@example.com,9.14475E+11,Marathahalli,Bangalore,16-08-2024,Male,Regular
+CUST0011,Pahal Kumar,pallavi10@example.com,9.19802E+11,Marathahalli,Bangalore,17-03-2023,Female,Regular
+CUST0012,Neha Sastry,kotamatthew@example.net,2541079072,Koramangala,Bangalore,18-09-2024,Other,Regular
+CUST0013,Odika Mani,ucchalgarg@example.org,9.141E+11,BTM Layout,Bangalore,07-04-2023,Male,Regular
+CUST0014,Yachana Dutt,maanav76@example.com,8551237136,Malleshwaram,Bangalore,06-10-2024,Other,Premium
+CUST0015,Anmol Khatri,talwarjhalak@example.com,2002014365,Rajajinagar,Bangalore,08-10-2023,Male,Regular
+CUST0016,Arunima Mandal,tarak45@example.org,6997135381,Malleshwaram,Bangalore,05-02-2023,Male,Premium
+CUST0017,Ucchal Rao,sureshekapad@example.com,6956496266,HSR Layout,Bangalore,03-03-2023,Male,Regular
+CUST0018,Bhavika Nori,ynarang@example.org,2004942076,Malleshwaram,Bangalore,19-12-2023,Female,Regular
+CUST0019,Jagrati Kala,chaitanyathaman@example.com,2223344980,HSR Layout,Bangalore,03-10-2023,Other,Regular
+CUST0020,Madhavi Sharma,karan13@example.org,9.10754E+11,Malleshwaram,Bangalore,14-06-2024,Male,Regular
+CUST0021,Hiral Mani,tanish99@example.com,1575574569,Yelahanka,Bangalore,13-05-2023,Other,Regular
+CUST0022,Hritik Dixit,kulkarnigautami@example.net,5742733199,BTM Layout,Bangalore,26-12-2023,Female,Premium
+CUST0023,Harinakshi Sani,tristanvasa@example.org,9.18614E+11,Hebbal,Bangalore,12-05-2024,Other,Regular
+CUST0024,Warinder Bir,prakashtanay@example.com,7745100190,Koramangala,Bangalore,09-09-2023,Male,Premium
+CUST0025,Advaith Gaba,ramachandrantriya@example.org,3616527802,Marathahalli,Bangalore,17-09-2024,Female,Regular
+CUST0026,Anthony Hayre,gautami17@example.com,5018207800,Rajajinagar,Bangalore,13-06-2023,Other,Regular
+CUST0027,Jagvi Dewan,arin37@example.com,8327902641,Electronic City,Bangalore,24-05-2024,Female,Premium
+CUST0028,Hritik Bhattacharyya,bsaha@example.com,9.15376E+11,Electronic City,Bangalore,14-05-2024,Male,Regular
+CUST0029,Baghyawati Solanki,garima41@example.net,5296807466,Hebbal,Bangalore,11-07-2023,Other,Regular
+CUST0030,Rushil Prashad,urvashisur@example.org,9.14287E+11,Rajajinagar,Bangalore,03-08-2024,Female,Premium
+CUST0031,Kavya Subramaniam,libnichacko@example.com,1162965208,Marathahalli,Bangalore,07-11-2023,Male,Premium
+CUST0032,Lohit Balakrishnan,chauhanlaksh@example.org,5009751906,Yelahanka,Bangalore,18-04-2023,Female,Regular
+CUST0033,Brijesh Parsa,madannimrat@example.org,3987551736,Indiranagar,Bangalore,06-02-2023,Male,Regular
+CUST0034,Panini Borah,yahvimander@example.net,9.13076E+11,Malleshwaram,Bangalore,07-09-2024,Female,Regular
+CUST0035,Prisha Yadav,nicholasrai@example.org,488740182,BTM Layout,Bangalore,26-10-2023,Other,Premium
+CUST0036,Parth Manda,mbhatt@example.org,2184334241,Jayanagar,Bangalore,15-02-2024,Other,Premium
+CUST0037,Aayush Goyal,saumya02@example.net,4844423852,Malleshwaram,Bangalore,09-01-2023,Other,Regular
+CUST0038,Yashica Chandran,ganeshtriya@example.com,9251536610,Yelahanka,Bangalore,18-11-2024,Female,Premium
+CUST0039,Vrinda Misra,sridharyashasvi@example.org,9.17527E+11,Indiranagar,Bangalore,22-09-2023,Female,Regular
+CUST0040,Neelima Ramanathan,sankarsamesh@example.com,9.13687E+11,Koramangala,Bangalore,19-12-2023,Other,Premium
+CUST0041,Gagan Anne,doctoroscar@example.org,4237923154,Yelahanka,Bangalore,24-07-2023,Male,Regular
+CUST0042,Wyatt Sane,bobaltimothy@example.com,18499071,Malleshwaram,Bangalore,24-03-2023,Female,Premium
+CUST0043,Anthony Mandal,boraakshay@example.org,2149946625,Rajajinagar,Bangalore,30-01-2024,Male,Regular
+CUST0044,Meghana Vala,aradhana87@example.net,6732639642,Whitefield,Bangalore,15-08-2024,Other,Premium
+CUST0045,Darika Maharaj,gabrielpandey@example.org,4853488116,Koramangala,Bangalore,16-02-2024,Other,Regular
+CUST0046,Aahana Krish,lankawriddhish@example.org,3694107032,Indiranagar,Bangalore,16-01-2023,Female,Premium
+CUST0047,Gunbir Mitra,gokhaleyahvi@example.com,9.10839E+11,Jayanagar,Bangalore,07-10-2024,Male,Regular
+CUST0048,Jyoti Rajan,amarabhatti@example.com,9.14639E+11,Rajajinagar,Bangalore,12-11-2024,Male,Regular
+CUST0049,Alka Char,ymane@example.com,9314237820,Indiranagar,Bangalore,13-01-2024,Other,Premium
+CUST0050,Dev Ben,qprasad@example.org,1318147544,Malleshwaram,Bangalore,10-04-2023,Female,Premium
+CUST0051,Upkaar Bedi,gopalbaghyawati@example.org,5081569301,Jayanagar,Bangalore,09-05-2023,Other,Premium
+CUST0052,Oeshi Dugal,saiprakash@example.org,545027090,HSR Layout,Bangalore,25-11-2023,Other,Premium
+CUST0053,Yochana Kunda,rajupma@example.net,1833397118,HSR Layout,Bangalore,19-06-2024,Other,Regular
+CUST0054,Aahana Mani,nadigojas@example.com,7781783850,Malleshwaram,Bangalore,05-06-2024,Female,Regular
+CUST0055,Lavanya Barad,meera72@example.net,7842210173,Electronic City,Bangalore,07-02-2024,Male,Regular
+CUST0056,Harrison Shroff,rajagopalanzayyan@example.com,3192004241,Marathahalli,Bangalore,19-02-2023,Male,Regular
+CUST0057,Yagnesh Shankar,snehabava@example.org,6387028574,Rajajinagar,Bangalore,28-06-2023,Male,Regular
+CUST0058,Anya Kapadia,pranit88@example.com,9.14974E+11,Malleshwaram,Bangalore,03-07-2024,Male,Regular
+CUST0059,Ubika Maharaj,bhavsaraachal@example.com,9.13518E+11,Marathahalli,Bangalore,25-01-2023,Male,Regular
+CUST0060,Omisha Date,bakhshi66@example.net,7991955872,Malleshwaram,Bangalore,05-08-2023,Female,Regular
+CUST0061,Jai Nanda,xdevan@example.com,8073199852,Hebbal,Bangalore,13-04-2023,Other,Regular
+CUST0062,Peter Gulati,harini47@example.net,9.14089E+11,Electronic City,Bangalore,08-07-2023,Female,Regular
+CUST0063,Naveen Chad,kalitalibni@example.com,3326065110,Malleshwaram,Bangalore,17-03-2023,Female,Regular
+CUST0064,Gaurangi Iyengar,vkale@example.com,4723439471,Electronic City,Bangalore,16-11-2023,Other,Regular
+CUST0065,Dayita Batra,malhotraanirudh@example.org,5487619111,Malleshwaram,Bangalore,22-05-2024,Male,Regular
+CUST0066,Jacob Varma,aachal64@example.com,9473743938,Marathahalli,Bangalore,19-07-2024,Male,Regular
+CUST0067,Urmi Jaggi,abeervarma@example.org,9.14381E+11,Yelahanka,Bangalore,28-05-2023,Female,Regular
+CUST0068,Yahvi Parikh,jchaudhuri@example.com,9972542676,Jayanagar,Bangalore,23-05-2023,Female,Regular
+CUST0069,Bhavini Pillai,haritasathe@example.net,8560840290,Electronic City,Bangalore,28-02-2023,Other,Regular
+CUST0070,Kavya Dubey,agour@example.org,3067329634,Yelahanka,Bangalore,21-05-2024,Male,Premium
+CUST0071,Suhani Muni,qarin05@example.org,7842227655,HSR Layout,Bangalore,08-08-2024,Male,Regular
+CUST0072,Samuel Patla,dgour@example.com,8889288505,HSR Layout,Bangalore,09-01-2024,Female,Premium
+CUST0073,Zayan Borde,qarinnarasimhan@example.net,5865707293,BTM Layout,Bangalore,08-05-2023,Male,Premium
+CUST0074,Aashi Kashyap,upmachoudhry@example.net,9.15529E+11,Electronic City,Bangalore,25-07-2023,Female,Regular
+CUST0075,Neha Lanka,tanveer69@example.com,1064647521,Yelahanka,Bangalore,21-07-2024,Other,Regular
+CUST0076,Fariq Oommen,zaidapte@example.com,4368225199,HSR Layout,Bangalore,01-05-2023,Female,Regular
+CUST0077,Gunbir Mody,iryachatterjee@example.org,7796590717,Rajajinagar,Bangalore,15-02-2023,Other,Regular
+CUST0078,Chandran Bobal,falan68@example.net,9.11304E+11,Marathahalli,Bangalore,03-08-2024,Male,Regular
+CUST0079,Anvi Borde,eshana92@example.org,3973251678,Yelahanka,Bangalore,06-01-2024,Other,Regular
+CUST0080,Zilmil Kadakia,ibhatti@example.com,9.13826E+11,Indiranagar,Bangalore,30-01-2024,Male,Regular
+CUST0081,Maanav Minhas,eeshadayal@example.net,9.10547E+11,Malleshwaram,Bangalore,22-02-2023,Male,Regular
+CUST0082,Mugdha Nayak,pranitmitra@example.com,9.18685E+11,Rajajinagar,Bangalore,22-11-2024,Male,Regular
+CUST0083,Saumya Balay,mraja@example.org,3879670277,Rajajinagar,Bangalore,31-01-2023,Male,Regular
+CUST0084,Krishna Chatterjee,chowdhuryudyati@example.org,2971209082,Rajajinagar,Bangalore,29-03-2024,Other,Regular
+CUST0085,George Sani,dayallucky@example.org,2315001690,HSR Layout,Bangalore,22-07-2023,Other,Regular
+CUST0086,Jalsa Chana,eseshadri@example.org,5784216362,Jayanagar,Bangalore,05-07-2023,Female,Regular
+CUST0087,Rachit Gara,kevinramesh@example.org,4472390093,Jayanagar,Bangalore,16-05-2024,Female,Regular
+CUST0088,Chandani Vohra,kataluke@example.org,9.12168E+11,Indiranagar,Bangalore,06-08-2024,Male,Regular
+CUST0089,Abhimanyu Sathe,falanjain@example.net,4661310876,Indiranagar,Bangalore,13-03-2024,Male,Regular
+CUST0090,Onveer Barad,lakshmangat@example.net,627900235,Jayanagar,Bangalore,28-01-2024,Male,Premium
+CUST0091,Vritti Agate,subramanianodika@example.com,7117757328,Indiranagar,Bangalore,15-11-2024,Male,Regular
+CUST0092,Baljiwan Radhakrishnan,pallazilmil@example.com,3091086979,Electronic City,Bangalore,03-05-2023,Other,Regular
+CUST0093,Bhavya Dada,zarna18@example.com,7498168581,Malleshwaram,Bangalore,20-04-2024,Other,Regular
+CUST0094,Abeer Yogi,idika77@example.com,83439672,Yelahanka,Bangalore,26-09-2024,Female,Premium
+CUST0095,Yatin Chahal,kritika97@example.net,9.19588E+11,Whitefield,Bangalore,22-03-2023,Female,Regular
+CUST0096,George Wason,ybahri@example.org,9.15837E+11,Hebbal,Bangalore,25-03-2023,Other,Regular
+CUST0097,Alexander Kara,charanraj@example.org,9.18901E+11,Rajajinagar,Bangalore,07-08-2023,Male,Regular
+CUST0098,Mahika Pant,pandyaanya@example.com,7833495482,Malleshwaram,Bangalore,08-06-2023,Other,Premium
+CUST0099,Praneel Ramachandran,madanarya@example.org,9.14845E+11,Electronic City,Bangalore,28-01-2024,Female,Premium
+CUST0100,Nilima Dave,krishkeer@example.org,4844590866,Koramangala,Bangalore,19-10-2024,Male,Regular
+CUST0101,Azaan Raghavan,odixit@example.org,9.1153E+11,Jayanagar,Bangalore,06-10-2024,Male,Regular
+CUST0102,Aditya Varma,omishadhillon@example.org,6562711171,Whitefield,Bangalore,21-08-2024,Other,Premium
+CUST0103,Tarak Devi,charansathe@example.net,9.12371E+11,Hebbal,Bangalore,06-05-2023,Female,Regular
+CUST0104,George Bath,fitan02@example.net,5954487987,Yelahanka,Bangalore,29-11-2023,Male,Regular
+CUST0105,Jackson Bhat,urvashi44@example.net,9456399829,Hebbal,Bangalore,16-11-2024,Male,Regular
+CUST0106,Kiaan Nair,nihal62@example.net,5096503896,Marathahalli,Bangalore,10-10-2024,Other,Regular
+CUST0107,Udarsh Cherian,upadhriti39@example.com,9.10899E+11,Whitefield,Bangalore,30-11-2023,Male,Regular
+CUST0108,Jacob Sankar,oscaraurora@example.net,4891606338,Koramangala,Bangalore,29-11-2024,Female,Regular
+CUST0109,Diya Ghosh,lbala@example.org,9.15953E+11,Malleshwaram,Bangalore,13-07-2023,Male,Regular
+CUST0110,Anmol Amble,vrinda05@example.com,3895579100,BTM Layout,Bangalore,10-03-2024,Other,Regular
+CUST0111,Nirja Nagi,pathakmitali@example.com,3196197419,Whitefield,Bangalore,03-07-2023,Male,Premium
+CUST0112,Nakul Kapoor,baghyawatisrivastava@example.org,9.17711E+11,Whitefield,Bangalore,20-01-2023,Other,Premium
+CUST0113,Qushi Lala,meghanaraman@example.com,2627897820,BTM Layout,Bangalore,30-08-2024,Other,Premium
+CUST0114,Sanya Golla,aishani09@example.net,9.12759E+11,HSR Layout,Bangalore,21-09-2024,Female,Regular
+CUST0115,Yug Basak,xrana@example.com,2714207648,Indiranagar,Bangalore,28-06-2024,Female,Premium
+CUST0116,Aradhana Sharma,sidhuluke@example.net,4509659672,Electronic City,Bangalore,28-10-2024,Male,Regular
+CUST0117,Aarini Patel,dbhagat@example.net,8540732464,Marathahalli,Bangalore,24-12-2023,Female,Premium
+CUST0118,Niharika Balasubramanian,jasmitchad@example.com,9.19236E+11,HSR Layout,Bangalore,07-11-2024,Male,Regular
+CUST0119,Pranav Bhatnagar,ekanta43@example.com,9.15643E+11,BTM Layout,Bangalore,31-05-2023,Female,Regular
+CUST0120,Waida Deo,anya27@example.org,3211304079,Jayanagar,Bangalore,23-02-2023,Female,Regular
+CUST0121,Mekhala Srinivasan,uhari@example.net,9710697245,Malleshwaram,Bangalore,07-11-2023,Other,Regular
+CUST0122,Aadhya Dubey,robert18@example.net,9.10151E+11,Indiranagar,Bangalore,22-01-2023,Female,Regular
+CUST0123,Michael Bhat,kalitachakradev@example.org,7697885543,Koramangala,Bangalore,26-07-2023,Male,Regular
+CUST0124,Warjas Khosla,zchauhan@example.com,7399790425,Hebbal,Bangalore,26-09-2023,Female,Regular
+CUST0125,Xalak Lal,lakshitbala@example.org,9.17514E+11,Indiranagar,Bangalore,02-02-2024,Female,Premium
+CUST0126,Kamala Jain,semlaksh@example.com,6664463930,Jayanagar,Bangalore,28-05-2023,Male,Regular
+CUST0127,Falak Devi,pahalkulkarni@example.org,9.12887E+11,Yelahanka,Bangalore,02-01-2023,Other,Regular
+CUST0128,Sneha Srinivas,ranbir04@example.com,9.18199E+11,Hebbal,Bangalore,30-07-2024,Other,Regular
+CUST0129,Akshay Som,yutika33@example.com,2461319695,Indiranagar,Bangalore,01-12-2023,Other,Premium
+CUST0130,Garima Ben,bhavikaradhakrishnan@example.net,6727040697,Marathahalli,Bangalore,29-04-2024,Other,Premium
+CUST0131,Abhiram Randhawa,choudhryelijah@example.net,9.15317E+11,Jayanagar,Bangalore,13-07-2024,Other,Regular
+CUST0132,Urishilla Bath,vritti35@example.org,6443293384,Marathahalli,Bangalore,14-11-2023,Female,Regular
+CUST0133,Vyanjana Acharya,niharika20@example.com,8308717816,Whitefield,Bangalore,06-03-2024,Male,Regular
+CUST0134,Arya Dutt,varghesepahal@example.net,4300798606,Malleshwaram,Bangalore,22-10-2023,Other,Premium
+CUST0135,Samesh Rama,isem@example.org,1895620909,Rajajinagar,Bangalore,23-04-2024,Female,Regular
+CUST0136,Umang Gulati,rudrapandya@example.org,9.17888E+11,Koramangala,Bangalore,09-10-2024,Female,Regular
+CUST0137,Abha Srivastava,rprabhakar@example.com,9.10406E+11,Rajajinagar,Bangalore,30-11-2023,Other,Regular
+CUST0138,Arya Sood,guptakamya@example.com,4411685178,Electronic City,Bangalore,28-12-2023,Female,Regular
+CUST0139,Naveen Divan,tanviganguly@example.com,8920032819,Electronic City,Bangalore,02-02-2024,Other,Regular
+CUST0140,Rayaan Divan,jasonmore@example.net,9.18272E+11,Jayanagar,Bangalore,07-03-2023,Other,Regular
+CUST0141,Chameli Talwar,krishnamurthysuhani@example.net,3195669600,Marathahalli,Bangalore,25-04-2024,Male,Premium
+CUST0142,Anirudh Shetty,lakshghosh@example.org,5525913644,HSR Layout,Bangalore,06-08-2024,Other,Regular
+CUST0143,Ekaja Randhawa,jairaj28@example.org,9.1332E+11,HSR Layout,Bangalore,18-09-2024,Male,Regular
+CUST0144,Faraj Dugar,yugkrishna@example.com,9.11318E+11,Electronic City,Bangalore,10-07-2023,Other,Premium
+CUST0145,Urishilla Sane,zparsa@example.com,1684125409,Electronic City,Bangalore,26-02-2023,Female,Premium
+CUST0146,Chameli Ahluwalia,indira85@example.org,651400436,HSR Layout,Bangalore,23-03-2024,Other,Regular
+CUST0147,Abeer Kara,udyati67@example.org,2233672339,BTM Layout,Bangalore,19-01-2024,Male,Regular
+CUST0148,Caleb Kumar,hemani12@example.com,9.17745E+11,Koramangala,Bangalore,18-06-2024,Male,Premium
+CUST0149,Chameli Shah,yutika35@example.com,1952022754,Whitefield,Bangalore,19-06-2023,Other,Regular
+CUST0150,Omya Gole,sacharurishilla@example.com,3133966783,Yelahanka,Bangalore,09-02-2023,Male,Premium
+CUST0151,Robert Anne,hmadan@example.net,4042619101,Electronic City,Bangalore,05-04-2023,Male,Premium
+CUST0152,Gabriel Vala,moraraarav@example.org,9.10759E+11,Yelahanka,Bangalore,02-06-2024,Other,Regular
+CUST0153,Sachi Narayanan,alexander83@example.org,9.17453E+11,Electronic City,Bangalore,09-08-2024,Other,Premium
+CUST0154,Hiral Prashad,theodoregokhale@example.net,5126562810,Yelahanka,Bangalore,23-11-2024,Female,Premium
+CUST0155,Bishakha Sehgal,savantguneet@example.net,1131874924,Electronic City,Bangalore,01-03-2024,Male,Regular
+CUST0156,Nathaniel Bassi,eshana54@example.net,3976299455,Electronic City,Bangalore,04-01-2024,Female,Premium
+CUST0157,Raksha Shukla,cdani@example.org,5571777546,Malleshwaram,Bangalore,14-10-2024,Female,Premium
+CUST0158,Yatin Chaudhry,rattasai@example.org,3823819600,Electronic City,Bangalore,09-02-2024,Other,Regular
+CUST0159,Siddharth Anne,manifalan@example.net,9.13073E+11,Indiranagar,Bangalore,08-12-2023,Other,Regular
+CUST0160,Nidra Padmanabhan,mthakur@example.com,9.13062E+11,Marathahalli,Bangalore,31-07-2023,Female,Premium
+CUST0161,Karan Dyal,uthakkar@example.org,2999669242,Whitefield,Bangalore,04-03-2023,Male,Regular
+CUST0162,Ishwar Chanda,gaurisura@example.net,3763245038,Whitefield,Bangalore,23-06-2024,Other,Regular
+CUST0163,Farhan Savant,vinaya97@example.net,9.1605E+11,BTM Layout,Bangalore,19-11-2023,Female,Regular
+CUST0164,Upma Bera,rkumar@example.net,5115288615,Koramangala,Bangalore,19-11-2023,Male,Premium
+CUST0165,Nandini Keer,balveer16@example.org,7314921585,Rajajinagar,Bangalore,30-10-2023,Other,Regular
+CUST0166,Rehaan Jaggi,christopherparmer@example.net,1668373689,Rajajinagar,Bangalore,15-11-2024,Female,Regular
+CUST0167,Dipta Sem,jasonrau@example.net,244116869,Jayanagar,Bangalore,01-10-2023,Female,Premium
+CUST0168,Nathaniel Brar,chaitanya15@example.org,9.10907E+11,BTM Layout,Bangalore,11-10-2024,Other,Regular
+CUST0169,Upma Sathe,manbir04@example.org,411725947,Rajajinagar,Bangalore,29-02-2024,Male,Regular
+CUST0170,Finn Din,sara83@example.net,8159267480,BTM Layout,Bangalore,31-07-2023,Female,Regular
+CUST0171,Viraj Deshpande,zsrinivas@example.com,8098256081,Malleshwaram,Bangalore,19-09-2023,Other,Premium
+CUST0172,Vasatika Vaidya,jagdishmitra@example.net,9.14656E+11,Whitefield,Bangalore,16-07-2024,Female,Premium
+CUST0173,Dayamai Doshi,vargheselajita@example.org,4992671195,Yelahanka,Bangalore,28-04-2024,Male,Premium
+CUST0174,Zayyan Rana,adweta69@example.net,2773423981,Rajajinagar,Bangalore,04-04-2024,Other,Regular
+CUST0175,Chakradev Kota,tmagar@example.com,9.18813E+11,BTM Layout,Bangalore,14-05-2024,Male,Premium
+CUST0176,Maanas Bhat,boravictor@example.net,929360887,Koramangala,Bangalore,22-05-2023,Female,Regular
+CUST0177,Girindra Mitra,chanakyasodhi@example.net,9.14761E+11,Electronic City,Bangalore,14-06-2023,Female,Regular
+CUST0178,Kritika Batta,sulejagat@example.org,1235283158,BTM Layout,Bangalore,14-11-2024,Female,Premium
+CUST0179,Adya Morar,janujasarkar@example.com,9.14023E+11,BTM Layout,Bangalore,08-10-2024,Female,Premium
+CUST0180,Arjun Balan,waliadarsh@example.org,266560668,Koramangala,Bangalore,01-01-2024,Other,Regular
+CUST0181,Ati Zachariah,aaravkalita@example.net,746654105,HSR Layout,Bangalore,29-09-2023,Other,Regular
+CUST0182,Lavanya Kaur,ayushman53@example.org,9066028509,Koramangala,Bangalore,21-05-2024,Male,Premium
+CUST0183,Aayush Wadhwa,vanya29@example.com,9.12841E+11,Koramangala,Bangalore,04-06-2023,Other,Regular
+CUST0184,Krishna Sood,hemanigokhale@example.com,1332706732,Electronic City,Bangalore,09-04-2023,Other,Regular
+CUST0185,Oeshi Contractor,osha75@example.com,9.19927E+11,Electronic City,Bangalore,19-06-2023,Other,Regular
+CUST0186,Hemang Bora,sanghvibachittar@example.org,5491550221,Whitefield,Bangalore,14-10-2023,Other,Regular
+CUST0187,Vyanjana Bahri,suriethan@example.com,8627091856,Hebbal,Bangalore,03-08-2024,Male,Premium
+CUST0188,Divya Ravel,jainvihaan@example.net,659515803,Jayanagar,Bangalore,08-05-2023,Male,Regular
+CUST0189,Jatin Boase,aahana20@example.com,2787330024,Rajajinagar,Bangalore,31-08-2023,Other,Premium
+CUST0190,Inaya Dave,zhayre@example.org,9.17208E+11,BTM Layout,Bangalore,19-10-2023,Other,Regular
+CUST0191,Girish Edwin,ekbal12@example.org,9.18982E+11,Hebbal,Bangalore,04-04-2024,Other,Regular
+CUST0192,Deepa Wadhwa,masterguneet@example.net,9.17221E+11,Jayanagar,Bangalore,25-06-2024,Other,Regular
+CUST0193,Chaaya Barad,osinghal@example.com,1121539007,Rajajinagar,Bangalore,05-04-2023,Male,Regular
+CUST0194,Osha Golla,barkha08@example.org,8884860575,Malleshwaram,Bangalore,29-11-2023,Female,Regular
+CUST0195,Shivani Mohanty,amol63@example.net,3943558455,Marathahalli,Bangalore,17-05-2024,Male,Premium
+CUST0196,Liam Baral,amaira08@example.net,4472141855,Electronic City,Bangalore,30-09-2024,Male,Regular
+CUST0197,Kavya Manda,nadkarnisiya@example.org,9.13447E+11,Malleshwaram,Bangalore,09-10-2023,Female,Regular
+CUST0198,Shivani Bava,jackson50@example.net,9.14127E+11,Whitefield,Bangalore,05-12-2023,Other,Regular
+CUST0199,Dhriti Lala,onkar69@example.net,8170682210,Jayanagar,Bangalore,20-05-2024,Other,Premium
+CUST0200,Arunima Anne,radha06@example.org,9.13899E+11,Electronic City,Bangalore,23-02-2024,Female,Regular
+CUST0201,Chakrika Pant,arin20@example.org,1142159365,Rajajinagar,Bangalore,21-07-2024,Female,Regular
+CUST0202,Rudra Bahl,etashenoy@example.org,1253951115,Indiranagar,Bangalore,10-07-2023,Female,Premium
+CUST0203,Mohini Pingle,ishaan59@example.org,3225174917,Electronic City,Bangalore,09-07-2023,Other,Regular
+CUST0204,Rohan Varghese,chokshiekaja@example.com,7490872458,Marathahalli,Bangalore,22-10-2023,Male,Regular
+CUST0205,Aditya Rana,krisha15@example.org,7425674424,Whitefield,Bangalore,10-09-2023,Female,Regular
+CUST0206,Ijaya Loyal,varenyakrishnan@example.org,5290310171,Jayanagar,Bangalore,11-09-2024,Female,Regular
+CUST0207,Lakshit D’Alia,kamala83@example.org,9258097308,Hebbal,Bangalore,08-04-2024,Female,Regular
+CUST0208,Nihal Das,yashodharaoak@example.org,8992607156,HSR Layout,Bangalore,06-02-2024,Male,Regular
+CUST0209,Devansh Zacharia,leenamodi@example.com,3729215895,Electronic City,Bangalore,12-11-2023,Other,Premium
+CUST0210,Maanas Khanna,shettyamaira@example.org,6088479522,Electronic City,Bangalore,20-06-2024,Other,Regular
+CUST0211,Tarak Malhotra,eloke@example.org,9520101348,Koramangala,Bangalore,15-12-2023,Male,Regular
+CUST0212,Mason Datta,yachanakakar@example.org,3210610145,Hebbal,Bangalore,11-11-2023,Male,Regular
+CUST0213,Vedika Kade,nkhare@example.org,7772562881,Marathahalli,Bangalore,27-03-2024,Female,Regular
+CUST0214,Dakshesh Bir,chandradarpan@example.com,9.13802E+11,BTM Layout,Bangalore,25-09-2023,Other,Regular
+CUST0215,Bakhshi Misra,binavenkatesh@example.com,9.12119E+11,Hebbal,Bangalore,01-10-2023,Female,Regular
+CUST0216,Tamanna Oak,aswaminathan@example.org,2242873499,HSR Layout,Bangalore,15-07-2023,Male,Regular
+CUST0217,Tarak Mane,fchana@example.com,3375414643,Indiranagar,Bangalore,03-09-2023,Other,Regular
+CUST0218,Hritik Luthra,wwarrior@example.net,9.19917E+11,Hebbal,Bangalore,15-08-2024,Male,Regular
+CUST0219,Jackson Thakur,jackdar@example.net,8078110701,Electronic City,Bangalore,27-07-2024,Female,Regular
+CUST0220,Kamya Sethi,diptaganguly@example.com,432480520,Yelahanka,Bangalore,13-08-2024,Other,Regular
+CUST0221,Arunima Prakash,balendra02@example.org,7019587110,HSR Layout,Bangalore,20-03-2023,Female,Regular
+CUST0222,Kavya Nori,tnagar@example.org,9.18509E+11,Jayanagar,Bangalore,20-05-2023,Male,Regular
+CUST0223,Rishi Bath,danielandra@example.com,2704057094,Jayanagar,Bangalore,09-04-2023,Male,Premium
+CUST0224,Bhavika Dixit,kprakash@example.org,9.18476E+11,Jayanagar,Bangalore,05-03-2024,Other,Premium
+CUST0225,Vaishnavi Deshpande,tmitra@example.org,2298066106,Electronic City,Bangalore,10-05-2024,Male,Premium
+CUST0226,Wakeeta Bhagat,shankerucchal@example.org,6503390769,Jayanagar,Bangalore,21-03-2024,Female,Regular
+CUST0227,Yasti Talwar,manan60@example.org,545036977,Whitefield,Bangalore,22-09-2023,Male,Regular
+CUST0228,Ucchal Khosla,dalalyoshita@example.net,9.13353E+11,Electronic City,Bangalore,31-10-2024,Male,Premium
+CUST0229,Kalpit Kanda,butalaxalak@example.com,4635184241,Electronic City,Bangalore,08-11-2023,Male,Regular
+CUST0230,Vedika Sane,isaac78@example.com,2210854028,Koramangala,Bangalore,17-06-2024,Male,Regular
+CUST0231,Jai Kashyap,merchantdamyanti@example.com,2407463944,Jayanagar,Bangalore,13-03-2024,Male,Premium
+CUST0232,Lucky Kale,ayushmanparsa@example.net,831663498,Yelahanka,Bangalore,03-04-2023,Female,Regular
+CUST0233,Azad Dani,divya55@example.com,9.1333E+11,Rajajinagar,Bangalore,06-09-2024,Male,Premium
+CUST0234,Damyanti Toor,urvibath@example.com,9.17701E+11,Electronic City,Bangalore,23-10-2023,Female,Regular
+CUST0235,Isha Bhardwaj,maanas96@example.com,53545429,BTM Layout,Bangalore,02-04-2024,Female,Regular
+CUST0236,Onveer Raj,aadhyaparekh@example.com,9.11897E+11,Rajajinagar,Bangalore,16-02-2023,Other,Regular
+CUST0237,Fariq Bera,wverma@example.net,9.16044E+11,HSR Layout,Bangalore,15-08-2024,Other,Regular
+CUST0238,Nimrat De,jagdish28@example.com,777397813,Indiranagar,Bangalore,27-05-2024,Male,Regular
+CUST0239,Dhruv Halder,chowdhurypahal@example.net,7511198564,Indiranagar,Bangalore,04-03-2024,Male,Regular
+CUST0240,Kavya Saxena,indalirajagopalan@example.com,5092020895,Hebbal,Bangalore,16-12-2023,Other,Regular
+CUST0241,Brijesh Korpal,uppalyasti@example.org,260251273,HSR Layout,Bangalore,26-01-2023,Female,Regular
+CUST0242,Chandresh Memon,arya19@example.org,2238622733,Electronic City,Bangalore,30-06-2024,Male,Regular
+CUST0243,Aarnav Chatterjee,rrajan@example.com,9.12785E+11,Malleshwaram,Bangalore,25-07-2023,Other,Regular
+CUST0244,Chandran Handa,samanakul@example.com,6955965289,BTM Layout,Bangalore,03-06-2023,Male,Regular
+CUST0245,Dhriti Dara,charvi88@example.com,2107102862,Whitefield,Bangalore,18-05-2024,Female,Premium
+CUST0246,Dayamai Malhotra,vrishti34@example.org,4962982188,Koramangala,Bangalore,25-02-2023,Male,Premium
+CUST0247,Gauri Mangat,dayita60@example.org,9532322357,Hebbal,Bangalore,07-04-2024,Other,Premium
+CUST0248,Anirudh Krish,vansha94@example.com,9.16502E+11,Indiranagar,Bangalore,08-12-2023,Female,Regular
+CUST0249,Ansh Swamy,turvi06@example.com,1390913093,BTM Layout,Bangalore,27-06-2024,Female,Regular
+CUST0250,Bhavani Narang,bhavika62@example.org,9.13044E+11,Electronic City,Bangalore,19-01-2024,Male,Regular
+CUST0251,Bhavika Sagar,jasmit10@example.com,2557301736,BTM Layout,Bangalore,21-11-2024,Other,Regular
+CUST0252,Aayush Rajagopalan,benjaminvasa@example.net,4185196971,Koramangala,Bangalore,14-07-2023,Male,Regular
+CUST0253,Hamsini Gera,georgegarg@example.net,9.12373E+11,Rajajinagar,Bangalore,07-06-2024,Other,Premium
+CUST0254,Aryan Palla,wkhare@example.com,9669504206,Malleshwaram,Bangalore,17-08-2024,Female,Regular
+CUST0255,Aarush Bhatnagar,vsuresh@example.org,3609439359,Whitefield,Bangalore,15-08-2024,Female,Regular
+CUST0256,Urvi Kapoor,hnadkarni@example.com,1941458263,Jayanagar,Bangalore,10-12-2023,Male,Premium
+CUST0257,Damyanti Garg,veda75@example.net,3908692060,Malleshwaram,Bangalore,05-12-2023,Female,Premium
+CUST0258,Gunbir Batta,sai40@example.com,1131325556,Marathahalli,Bangalore,01-01-2024,Female,Regular
+CUST0259,Ekaja Sheth,alexanderverma@example.com,7229886235,Indiranagar,Bangalore,04-06-2024,Male,Regular
+CUST0260,Xiti Wali,saumyakanda@example.net,7881220852,Electronic City,Bangalore,22-06-2024,Female,Regular
+CUST0261,Dayamai Hans,sanghviekansh@example.net,9.1369E+11,Yelahanka,Bangalore,08-11-2023,Male,Regular
+CUST0262,Lavanya Malhotra,vdubey@example.net,2089699009,Jayanagar,Bangalore,02-09-2023,Female,Regular
+CUST0263,Anya Mittal,saneijaya@example.com,5445445988,BTM Layout,Bangalore,23-08-2024,Other,Premium
+CUST0264,Tanish Kalita,kchaudhary@example.com,9387982394,Malleshwaram,Bangalore,01-01-2023,Other,Regular
+CUST0265,Vinaya Jain,widisha83@example.org,253625669,HSR Layout,Bangalore,12-02-2023,Other,Regular
+CUST0266,Vedant Toor,nakul06@example.org,9.15061E+11,Electronic City,Bangalore,10-08-2024,Other,Regular
+CUST0267,Advik Warrior,sdayal@example.org,158083287,HSR Layout,Bangalore,10-02-2023,Female,Regular
+CUST0268,Tripti Khurana,ekavir43@example.com,6218550309,Electronic City,Bangalore,12-08-2023,Other,Regular
+CUST0269,Utkarsh Ganguly,anaykashyap@example.org,2124026644,Malleshwaram,Bangalore,23-01-2023,Other,Premium
+CUST0270,Abhiram Bobal,pallaviraja@example.org,9.14531E+11,Whitefield,Bangalore,05-07-2024,Female,Regular
+CUST0271,Hitesh Purohit,bedisara@example.org,9.19611E+11,BTM Layout,Bangalore,04-03-2024,Male,Regular
+CUST0272,Imaran Upadhyay,ravelanamika@example.org,9.17951E+11,Indiranagar,Bangalore,15-10-2024,Female,Premium
+CUST0273,Hemal Patel,bimala78@example.net,9.17314E+11,Whitefield,Bangalore,18-05-2024,Female,Premium
+CUST0274,Hemang Bawa,eeshadatta@example.org,9.12319E+11,Yelahanka,Bangalore,15-08-2023,Other,Regular
+CUST0275,Pranit Naidu,urishillabarman@example.net,9.16768E+11,Electronic City,Bangalore,10-10-2024,Female,Regular
+CUST0276,Aahana Andra,rajatanmayi@example.net,7059566704,Whitefield,Bangalore,04-03-2024,Female,Regular
+CUST0277,Harsh Chandran,baradqasim@example.com,8284047630,Yelahanka,Bangalore,10-04-2024,Other,Premium
+CUST0278,Logan Bajaj,urvashi79@example.org,2143611184,Indiranagar,Bangalore,02-11-2024,Female,Premium
+CUST0279,Nilima Bera,zachariahtripti@example.com,5894328538,BTM Layout,Bangalore,25-10-2024,Female,Premium
+CUST0280,Kavya Kurian,tarak44@example.com,9.19029E+11,Jayanagar,Bangalore,30-01-2024,Male,Regular
+CUST0281,Lohit Rastogi,xsinha@example.org,208484926,Rajajinagar,Bangalore,20-08-2023,Other,Premium
+CUST0282,Anirudh Baria,paupanini@example.org,9.10601E+11,Whitefield,Bangalore,16-01-2024,Female,Regular
+CUST0283,Anjali Sandhu,chahalsaanvi@example.org,8609443983,Marathahalli,Bangalore,26-09-2023,Other,Premium
+CUST0284,Samesh Krishna,trivedijacob@example.org,9.10998E+11,Electronic City,Bangalore,20-10-2023,Female,Premium
+CUST0285,Varsha Dora,jmittal@example.org,5196303794,HSR Layout,Bangalore,25-06-2024,Other,Regular
+CUST0286,Xiti Andra,ishaansaran@example.com,1998492746,BTM Layout,Bangalore,26-10-2024,Male,Regular
+CUST0287,Daniel Kohli,yoshitadivan@example.net,6494063242,Hebbal,Bangalore,03-01-2024,Female,Regular
+CUST0288,Irya Arya,brattan@example.org,7276636201,Malleshwaram,Bangalore,30-05-2024,Male,Regular
+CUST0289,Yatin Chaudry,etalal@example.net,7925989665,Whitefield,Bangalore,29-01-2023,Other,Premium
+CUST0290,Vrinda Salvi,manddavid@example.net,1350390525,Indiranagar,Bangalore,15-09-2023,Female,Regular
+CUST0291,Ria Oommen,nimratedwin@example.net,6740823982,Koramangala,Bangalore,21-12-2023,Other,Regular
+CUST0292,Zaid Vasa,dakshesh92@example.org,9.16453E+11,Malleshwaram,Bangalore,07-11-2024,Male,Regular
+CUST0293,Mahika Master,tparikh@example.com,9.17255E+11,Jayanagar,Bangalore,30-08-2024,Female,Regular
+CUST0294,Maya Oak,alkagolla@example.com,9.19476E+11,Malleshwaram,Bangalore,05-11-2023,Male,Premium
+CUST0295,Nakul Patil,obose@example.net,5743411391,Malleshwaram,Bangalore,24-10-2024,Other,Regular
+CUST0296,Ayush Chacko,xborde@example.org,5218405355,Malleshwaram,Bangalore,03-09-2023,Other,Premium
+CUST0297,Bhavani Bassi,echacko@example.org,9.1708E+11,Yelahanka,Bangalore,15-01-2024,Male,Regular
+CUST0298,Reva Barman,samimanthan@example.com,9.19633E+11,Malleshwaram,Bangalore,02-07-2023,Other,Premium
+CUST0299,Hardik Khare,narasimhanharish@example.net,9298417983,Hebbal,Bangalore,26-06-2023,Male,Regular
+CUST0300,Omisha Narayanan,urvigole@example.org,9.17588E+11,Malleshwaram,Bangalore,18-03-2023,Other,Premium
+CUST0301,Devansh Mitra,vbatta@example.org,9.18119E+11,Whitefield,Bangalore,11-12-2023,Other,Regular
+CUST0302,Charvi Mital,urmi29@example.com,9.10599E+11,Koramangala,Bangalore,23-01-2023,Female,Premium
+CUST0303,Hemang Sastry,rajushravya@example.com,2255608600,Marathahalli,Bangalore,16-08-2023,Female,Regular
+CUST0304,Dayita Sarma,frederick21@example.net,197740092,Yelahanka,Bangalore,09-07-2023,Female,Regular
+CUST0305,Ayaan Parmer,regeekaja@example.org,9.18803E+11,Whitefield,Bangalore,07-09-2024,Male,Regular
+CUST0306,Hiral Dara,parsajoshua@example.com,9571656965,BTM Layout,Bangalore,18-04-2024,Other,Regular
+CUST0307,Raagini Bahri,omyanagy@example.net,268202728,Rajajinagar,Bangalore,22-01-2024,Male,Regular
+CUST0308,Yashodhara Savant,rramanathan@example.org,9.11785E+11,Jayanagar,Bangalore,10-05-2024,Female,Regular
+CUST0309,Niharika Dhillon,vedaborde@example.org,2821828283,Electronic City,Bangalore,08-01-2023,Female,Regular
+CUST0310,Kashvi Dar,wallachandresh@example.com,9764111453,Indiranagar,Bangalore,03-05-2023,Female,Premium
+CUST0311,Michael Devi,hemangini37@example.net,9.16619E+11,Jayanagar,Bangalore,01-04-2024,Other,Premium
+CUST0312,Keya More,dsachdeva@example.org,6694965538,Jayanagar,Bangalore,20-06-2024,Female,Premium
+CUST0313,Azad Chaudhari,abeermaster@example.net,4087481168,BTM Layout,Bangalore,04-06-2023,Female,Regular
+CUST0314,Nihal Memon,aggarwaladweta@example.com,7205065063,Rajajinagar,Bangalore,24-10-2023,Female,Regular
+CUST0315,Dominic Menon,ekapad98@example.com,9.17875E+11,Jayanagar,Bangalore,27-06-2024,Male,Premium
+CUST0316,Xalak Sethi,jainabha@example.com,9.1694E+11,BTM Layout,Bangalore,26-05-2024,Female,Regular
+CUST0317,Christopher Buch,amajumdar@example.net,360174937,Malleshwaram,Bangalore,02-11-2024,Other,Premium
+CUST0318,Utkarsh Dass,skamdar@example.org,4587356838,Hebbal,Bangalore,16-04-2024,Female,Premium
+CUST0319,Ekanta Baral,vivaankrishnan@example.net,9.16189E+11,HSR Layout,Bangalore,11-08-2023,Other,Premium
+CUST0320,Radhika Oza,bakshikamya@example.org,574290183,Malleshwaram,Bangalore,20-06-2023,Male,Regular
+CUST0321,Joshua Saxena,sinhajanaki@example.org,1285406129,Hebbal,Bangalore,10-06-2024,Other,Regular
+CUST0322,Tanvi Issac,murtypallavi@example.net,8441921430,Malleshwaram,Bangalore,17-04-2023,Male,Premium
+CUST0323,Vasana Hans,garima42@example.org,6602278132,Koramangala,Bangalore,17-05-2024,Female,Premium
+CUST0324,Quincy Karpe,trivedijoshua@example.com,4850170346,Rajajinagar,Bangalore,26-01-2023,Female,Regular
+CUST0325,Nakul Lad,chopraavi@example.com,1824525121,Jayanagar,Bangalore,12-03-2023,Female,Regular
+CUST0326,Ekaraj Ratti,libnipandey@example.net,1563536252,HSR Layout,Bangalore,17-05-2023,Male,Premium
+CUST0327,Aahana Vaidya,akshayrajagopalan@example.org,6115234024,Marathahalli,Bangalore,11-11-2024,Other,Regular
+CUST0328,Aarush Talwar,ubhatnagar@example.com,9390902514,Whitefield,Bangalore,31-07-2023,Female,Premium
+CUST0329,Hemani Vig,vasana48@example.org,4046540066,Jayanagar,Bangalore,10-01-2024,Other,Premium
+CUST0330,Dhruv Mutti,dbuch@example.com,8266954620,Indiranagar,Bangalore,16-09-2024,Female,Premium
+CUST0331,Raghav Tailor,zkhatri@example.net,31549651,HSR Layout,Bangalore,20-04-2023,Other,Regular
+CUST0332,Adweta Mallick,anayray@example.net,8899205052,Yelahanka,Bangalore,05-11-2023,Female,Regular
+CUST0333,Manan Saxena,yparmar@example.com,3108418821,Koramangala,Bangalore,03-11-2023,Female,Regular
+CUST0334,Aachal Gokhale,irajani@example.net,9.19317E+11,Marathahalli,Bangalore,20-12-2023,Other,Regular
+CUST0335,Lakshmi Loyal,laksh27@example.net,5319175062,Rajajinagar,Bangalore,23-07-2023,Female,Premium
+CUST0336,Indrajit Devan,wsharma@example.net,7353661528,Indiranagar,Bangalore,16-10-2023,Other,Regular
+CUST0337,Arin Sridhar,tanvirout@example.org,5098924249,Rajajinagar,Bangalore,20-01-2023,Other,Regular
+CUST0338,Warhi Bhatia,eshere@example.net,7622628797,HSR Layout,Bangalore,18-04-2024,Other,Regular
+CUST0339,Yashica Loyal,gaurisharaf@example.com,59418749,Electronic City,Bangalore,01-10-2024,Other,Regular
+CUST0340,Jalsa Sunder,indalibhagat@example.net,2092360023,Indiranagar,Bangalore,14-11-2023,Male,Regular
+CUST0341,Hemani Warrior,jasonbava@example.org,7509589716,Jayanagar,Bangalore,29-01-2023,Female,Regular
+CUST0342,Nitara Lal,ira27@example.org,4024251641,Yelahanka,Bangalore,02-07-2023,Male,Regular
+CUST0343,Zayan Vaidya,xmody@example.org,9.14143E+11,Malleshwaram,Bangalore,16-10-2023,Other,Regular
+CUST0344,Tamanna Ratta,trattan@example.com,9.16667E+11,BTM Layout,Bangalore,24-02-2024,Other,Regular
+CUST0345,Maya Barad,qmukhopadhyay@example.net,6115506743,BTM Layout,Bangalore,01-05-2023,Other,Regular
+CUST0346,Vrinda Dube,advayjain@example.org,8830121346,Rajajinagar,Bangalore,16-01-2024,Female,Premium
+CUST0347,Zaitra Arya,tdewan@example.org,9.18963E+11,Koramangala,Bangalore,06-08-2023,Other,Regular
+CUST0348,Januja Kala,lipika38@example.org,8456553118,Electronic City,Bangalore,11-12-2023,Male,Premium
+CUST0349,Faris Thaman,ekanta97@example.org,6170781634,Malleshwaram,Bangalore,19-03-2023,Female,Regular
+CUST0350,Azaan Wali,amairaluthra@example.net,2269215042,Marathahalli,Bangalore,15-05-2024,Male,Regular
+CUST0351,Nidra Sastry,amol08@example.org,313851212,Indiranagar,Bangalore,28-05-2023,Female,Regular
+CUST0352,Odika Mangat,yben@example.org,9.10745E+11,Malleshwaram,Bangalore,14-06-2023,Other,Regular
+CUST0353,Jagrati Gole,sanghviaradhana@example.com,982797246,Koramangala,Bangalore,17-01-2023,Female,Regular
+CUST0354,Janaki Sridhar,deshmukhalexander@example.org,9.18711E+11,Rajajinagar,Bangalore,08-04-2023,Male,Regular
+CUST0355,Hemang Varma,lipika45@example.org,5918559280,Yelahanka,Bangalore,17-08-2024,Male,Regular
+CUST0356,Varsha Batta,shravyakhosla@example.com,9.1527E+11,HSR Layout,Bangalore,23-09-2024,Female,Premium
+CUST0357,Alka Sunder,lakshit82@example.net,6226471477,Rajajinagar,Bangalore,04-09-2024,Male,Regular
+CUST0358,Aarnav Behl,khalsadamyanti@example.org,9.11179E+11,Whitefield,Bangalore,23-04-2023,Other,Regular
+CUST0359,Daksh Bhakta,karasamesh@example.net,5389498951,Indiranagar,Bangalore,16-05-2023,Other,Premium
+CUST0360,Hema Desai,gbhatti@example.com,9.18354E+11,Koramangala,Bangalore,13-04-2023,Female,Premium
+CUST0361,Bhavika Shanker,anjali72@example.com,802352907,Rajajinagar,Bangalore,04-07-2023,Female,Regular
+CUST0362,Krishna Bhatt,taranikita@example.com,3683091117,Koramangala,Bangalore,26-07-2023,Male,Regular
+CUST0363,Hamsini Kalla,esridhar@example.com,9.19388E+11,Indiranagar,Bangalore,13-02-2024,Other,Regular
+CUST0364,Jack Mannan,balayoviya@example.com,538022303,Marathahalli,Bangalore,15-12-2023,Other,Regular
+CUST0365,Wridesh Venkataraman,ramanadvika@example.org,4777961972,Yelahanka,Bangalore,18-12-2023,Male,Premium
+CUST0366,Samaksh Patel,royfalguni@example.com,313202802,Hebbal,Bangalore,03-02-2023,Other,Regular
+CUST0367,Utkarsh Sant,sanaya46@example.com,4099990361,Malleshwaram,Bangalore,22-12-2023,Male,Regular
+CUST0368,Upasna Gara,nagichanchal@example.org,7113170312,BTM Layout,Bangalore,08-01-2024,Female,Regular
+CUST0369,Mitesh Sarna,oviya74@example.org,9.14226E+11,Hebbal,Bangalore,16-01-2024,Female,Regular
+CUST0370,Nisha Sharaf,madhav43@example.org,3929062215,Marathahalli,Bangalore,04-03-2023,Other,Regular
+CUST0371,Zehaan Chadha,sarafyatin@example.com,1334222300,Jayanagar,Bangalore,09-04-2023,Other,Regular
+CUST0372,Vasatika Bhardwaj,oaktamanna@example.net,9.1849E+11,Hebbal,Bangalore,01-03-2024,Female,Regular
+CUST0373,Ikbal Varty,pillailipika@example.com,9935137227,Yelahanka,Bangalore,09-04-2024,Female,Regular
+CUST0374,Nitara Sani,mangatsiddharth@example.net,9.17881E+11,BTM Layout,Bangalore,15-04-2024,Male,Premium
+CUST0375,Raghav Varkey,menonleela@example.net,9505566554,Malleshwaram,Bangalore,30-03-2023,Other,Premium
+CUST0376,Vrishti Panchal,ati22@example.net,9.1502E+11,Hebbal,Bangalore,04-03-2024,Male,Regular
+CUST0377,Manya Bhat,unni25@example.net,7786567503,HSR Layout,Bangalore,20-11-2024,Female,Regular
+CUST0378,Upadhriti Vohra,chavvi54@example.net,3260363623,BTM Layout,Bangalore,19-12-2023,Female,Regular
+CUST0379,Yoshita Atwal,samesh68@example.net,7899367130,BTM Layout,Bangalore,31-08-2023,Female,Regular
+CUST0380,Balvan Bhat,dasguptaoni@example.org,7324684704,Whitefield,Bangalore,18-10-2023,Other,Premium
+CUST0381,Zilmil Sura,iraben@example.org,8665355044,Indiranagar,Bangalore,22-02-2023,Male,Regular
+CUST0382,Wyatt Patel,skhatri@example.com,2522293659,Hebbal,Bangalore,17-03-2023,Other,Regular
+CUST0383,Harish Mishra,qabilacharya@example.com,6164397135,Yelahanka,Bangalore,12-04-2023,Male,Regular
+CUST0384,Madhav Sinha,onkarswaminathan@example.com,3255599150,Yelahanka,Bangalore,12-03-2024,Female,Regular
+CUST0385,Nathaniel Gola,rajata16@example.net,9.16123E+11,Marathahalli,Bangalore,16-11-2023,Other,Premium
+CUST0386,Ekansh Pandya,borasneha@example.com,9.19697E+11,Hebbal,Bangalore,25-11-2023,Male,Premium
+CUST0387,Pooja Jayaraman,owali@example.org,3293526633,Jayanagar,Bangalore,11-04-2024,Female,Regular
+CUST0388,Manya Deshmukh,gdhaliwal@example.net,5518454515,HSR Layout,Bangalore,30-01-2024,Male,Regular
+CUST0389,Fariq Som,eben@example.com,9.19192E+11,Indiranagar,Bangalore,24-06-2023,Female,Premium
+CUST0390,Nihal Dayal,dalajamand@example.net,6580628582,Indiranagar,Bangalore,13-10-2023,Female,Regular
+CUST0391,Zinal Som,zehaan30@example.com,2441358418,BTM Layout,Bangalore,18-09-2024,Other,Premium
+CUST0392,Harinakshi Dubey,slalla@example.org,7248461051,Rajajinagar,Bangalore,27-09-2024,Other,Regular
+CUST0393,Yashica Dayal,ganga80@example.net,2129414916,Koramangala,Bangalore,08-03-2024,Other,Premium
+CUST0394,Deepa Nadkarni,ipal@example.org,9307214243,Hebbal,Bangalore,06-10-2024,Female,Regular
+CUST0395,Chaaya Rama,zdewan@example.com,9.12825E+11,Hebbal,Bangalore,01-08-2023,Female,Premium
+CUST0396,David Murthy,sai28@example.org,7713840414,Koramangala,Bangalore,30-09-2023,Male,Premium
+CUST0397,Aachal Kunda,ipalla@example.org,9.17267E+11,Malleshwaram,Bangalore,15-03-2024,Female,Regular
+CUST0398,Upkaar Sanghvi,benjaminramachandran@example.net,1530909611,Malleshwaram,Bangalore,29-07-2024,Male,Regular
+CUST0399,Karan Rao,lakshrattan@example.org,4568989024,HSR Layout,Bangalore,17-02-2024,Female,Regular
+CUST0400,Tripti Nayak,qchandra@example.org,5440661666,Whitefield,Bangalore,22-09-2023,Female,Regular
+CUST0401,Upadhriti Puri,sailalla@example.org,836184616,Rajajinagar,Bangalore,09-09-2023,Other,Regular
+CUST0402,Niharika Kala,qasimchand@example.org,9190337394,Whitefield,Bangalore,10-02-2023,Male,Premium
+CUST0403,Neel Halder,mdyal@example.net,9.16125E+11,Malleshwaram,Bangalore,08-02-2023,Male,Regular
+CUST0404,Damini Din,fradokapoor@example.org,9450391599,BTM Layout,Bangalore,29-05-2024,Female,Regular
+CUST0405,Anika Pai,aarna75@example.org,8913082816,Jayanagar,Bangalore,18-11-2023,Male,Premium
+CUST0406,Udarsh Bhandari,aayush01@example.org,4876947223,Marathahalli,Bangalore,30-03-2023,Female,Regular
+CUST0407,Caleb Sethi,vbaral@example.com,9.11034E+11,Malleshwaram,Bangalore,10-06-2024,Other,Regular
+CUST0408,Chandani Venkatesh,parekhdakshesh@example.net,5191241339,Jayanagar,Bangalore,02-06-2024,Male,Regular
+CUST0409,Azad Mistry,tgara@example.com,3514090130,Koramangala,Bangalore,10-04-2024,Male,Regular
+CUST0410,Amol Madan,nagarajanlajita@example.org,9.16576E+11,Whitefield,Bangalore,14-06-2023,Female,Regular
+CUST0411,Januja Gade,pathakgauri@example.org,9.12086E+11,Koramangala,Bangalore,04-04-2023,Female,Regular
+CUST0412,Champak Raghavan,warjasbumb@example.net,2559869247,Whitefield,Bangalore,17-05-2023,Female,Regular
+CUST0413,Yamini Bath,dadaaarush@example.com,9.16112E+11,Yelahanka,Bangalore,28-06-2023,Other,Premium
+CUST0414,Alexander Agrawal,ftak@example.com,9.1116E+11,Marathahalli,Bangalore,18-09-2024,Male,Regular
+CUST0415,Shaurya Hegde,netraravi@example.net,9.17085E+11,Koramangala,Bangalore,30-07-2024,Female,Regular
+CUST0416,Diya Garg,gdevi@example.com,9.11687E+11,Marathahalli,Bangalore,02-03-2023,Other,Regular
+CUST0417,Azad Hayre,nisha72@example.com,9.16727E+11,Hebbal,Bangalore,11-11-2023,Other,Regular
+CUST0418,Gautam Saxena,vartyanthony@example.com,6613968212,BTM Layout,Bangalore,31-03-2023,Male,Premium
+CUST0419,Jagdish Yogi,andrew87@example.com,41731504,Rajajinagar,Bangalore,14-05-2023,Female,Premium
+CUST0420,Ansh Swaminathan,aachal96@example.com,1256952378,Indiranagar,Bangalore,09-10-2023,Female,Premium
+CUST0421,Ijaya Sami,virknidra@example.net,9.10966E+11,BTM Layout,Bangalore,08-07-2023,Other,Regular
+CUST0422,Nitara Bains,jkhosla@example.org,9.1849E+11,BTM Layout,Bangalore,03-03-2023,Female,Regular
+CUST0423,Chaman Chadha,nagiekani@example.net,8522147072,Marathahalli,Bangalore,22-06-2023,Male,Regular
+CUST0424,Manthan Chaudhari,nimratdar@example.org,2616397786,Indiranagar,Bangalore,06-05-2024,Other,Regular
+CUST0425,Arya Raja,kibewaida@example.com,9.11291E+11,Marathahalli,Bangalore,25-08-2024,Female,Regular
+CUST0426,Nandini Ramanathan,ekata@example.com,8936935224,Malleshwaram,Bangalore,28-09-2024,Male,Regular
+CUST0427,Alka Vyas,yahvi04@example.com,9.19015E+11,Jayanagar,Bangalore,24-04-2023,Male,Regular
+CUST0428,Kamya Kumer,chanchal18@example.org,9.16325E+11,Malleshwaram,Bangalore,29-04-2023,Male,Regular
+CUST0429,Kabir Parmer,iyernetra@example.org,8060386299,Malleshwaram,Bangalore,23-08-2024,Female,Regular
+CUST0430,Yashoda Bawa,hitesh22@example.com,378520204,Rajajinagar,Bangalore,13-03-2024,Female,Regular
+CUST0431,Jason Pradhan,vnazareth@example.com,3310681004,Rajajinagar,Bangalore,16-11-2024,Other,Regular
+CUST0432,Onkar Khalsa,farhan10@example.net,9.16128E+11,Marathahalli,Bangalore,30-04-2024,Other,Regular
+CUST0433,Udyati Sengupta,perichaitanya@example.net,3176037322,Indiranagar,Bangalore,08-12-2023,Female,Regular
+CUST0434,Qadim Ben,tanmayi94@example.com,7073662274,Jayanagar,Bangalore,24-08-2023,Other,Regular
+CUST0435,Banjeet Chandran,bhatmanya@example.net,8496763915,Indiranagar,Bangalore,30-01-2024,Female,Regular
+CUST0436,Udarsh Baral,noritanay@example.org,9.14889E+11,Koramangala,Bangalore,30-01-2023,Female,Premium
+CUST0437,Ekanta Sankaran,pallavikapadia@example.net,9.12582E+11,Malleshwaram,Bangalore,01-03-2023,Male,Regular
+CUST0438,Panini Mall,ddeep@example.com,6412726879,BTM Layout,Bangalore,29-01-2024,Female,Regular
+CUST0439,Veer Bains,rsen@example.org,6009703688,Hebbal,Bangalore,07-09-2024,Male,Regular
+CUST0440,Gautami Kurian,ldalia@example.com,9200547128,Rajajinagar,Bangalore,21-09-2024,Other,Regular
+CUST0441,Aarna Balay,hritik65@example.net,1844043330,Electronic City,Bangalore,14-04-2024,Other,Regular
+CUST0442,Kamala Mody,dayita67@example.com,9.19196E+11,Electronic City,Bangalore,18-02-2023,Male,Premium
+CUST0443,Mitali Pant,saumya35@example.org,5712981464,Marathahalli,Bangalore,12-10-2024,Other,Regular
+CUST0444,Sai Sibal,upasna79@example.net,7680365281,Whitefield,Bangalore,16-05-2024,Male,Regular
+CUST0445,Ekapad Sood,iganesan@example.net,9.13578E+11,Electronic City,Bangalore,07-12-2023,Other,Regular
+CUST0446,Tristan Bhatia,aadhya43@example.com,9.18905E+11,Marathahalli,Bangalore,04-05-2023,Female,Premium
+CUST0447,Yashvi Ramaswamy,vmalhotra@example.org,657097968,BTM Layout,Bangalore,28-10-2023,Female,Regular
+CUST0448,Aditya Handa,anmolvala@example.org,9.13881E+11,Malleshwaram,Bangalore,10-02-2023,Other,Regular
+CUST0449,Shravya Parekh,rohanvohra@example.net,9.1253E+11,Indiranagar,Bangalore,14-09-2023,Other,Regular
+CUST0450,Damyanti Rana,gaurangibhavsar@example.org,9.14621E+11,Jayanagar,Bangalore,09-08-2023,Other,Premium
+CUST0451,Aachal Sarraf,ganeshdaniel@example.com,9303457449,Whitefield,Bangalore,13-04-2024,Female,Regular
+CUST0452,Nitara Patla,vidhi68@example.net,9.10364E+11,Whitefield,Bangalore,30-05-2024,Female,Regular
+CUST0453,Krish Deo,avni11@example.org,2067329561,Hebbal,Bangalore,24-05-2024,Other,Regular
+CUST0454,Gagan Joshi,rachitrai@example.org,5915068675,Hebbal,Bangalore,07-04-2024,Male,Regular
+CUST0455,Gagan Khanna,pratyushtara@example.net,9.15087E+11,Malleshwaram,Bangalore,20-10-2023,Female,Premium
+CUST0456,Noah Nayak,samralogan@example.org,6509347215,Hebbal,Bangalore,04-06-2024,Other,Premium
+CUST0457,Sanya Sharma,gaganhari@example.com,9.12996E+11,Indiranagar,Bangalore,13-02-2024,Other,Regular
+CUST0458,Ekantika Kapur,surijhalak@example.com,9.17146E+11,Marathahalli,Bangalore,30-01-2024,Male,Regular
+CUST0459,Ganga Sathe,ahluwaliarajata@example.org,2391253328,HSR Layout,Bangalore,21-05-2023,Female,Premium
+CUST0460,Amruta Sura,eta37@example.com,9.10744E+11,HSR Layout,Bangalore,13-01-2024,Male,Premium
+CUST0461,Saksham Joshi,cpurohit@example.org,9.19007E+11,Indiranagar,Bangalore,01-05-2023,Female,Premium
+CUST0462,Watika Nagar,iravel@example.net,3061306324,Yelahanka,Bangalore,20-03-2023,Other,Premium
+CUST0463,Guneet Shukla,rohan40@example.com,9.1417E+11,Yelahanka,Bangalore,17-11-2024,Male,Regular
+CUST0464,Bimala Pradhan,cwalia@example.org,7036867569,Rajajinagar,Bangalore,11-11-2024,Male,Regular
+CUST0465,Sneha Natt,baljiwan77@example.com,1655511497,Whitefield,Bangalore,30-04-2023,Male,Premium
+CUST0466,Anmol Dayal,eupadhyay@example.com,490684213,Rajajinagar,Bangalore,21-08-2024,Male,Regular
+CUST0467,Darsh Bansal,santraghav@example.com,2113687282,BTM Layout,Bangalore,03-02-2023,Female,Regular
+CUST0468,Zansi Jayaraman,nidranigam@example.org,9.1494E+11,Electronic City,Bangalore,04-07-2023,Other,Regular
+CUST0469,Advik Mittal,luckyzachariah@example.org,6820813264,Electronic City,Bangalore,04-08-2024,Male,Regular
+CUST0470,Geetika Dalal,pdate@example.org,3702284118,Electronic City,Bangalore,29-08-2023,Male,Regular
+CUST0471,Vasudha Varghese,sanayaapte@example.org,2849332978,Electronic City,Bangalore,19-03-2024,Female,Premium
+CUST0472,Faras Kapur,girik10@example.org,9.11787E+11,BTM Layout,Bangalore,27-08-2024,Other,Regular
+CUST0473,Aadhya Hayre,nachiket95@example.com,7029767509,HSR Layout,Bangalore,06-05-2023,Other,Regular
+CUST0474,Daksha Natt,saanvibala@example.com,5008991481,Koramangala,Bangalore,14-07-2023,Other,Regular
+CUST0475,Rajeshri Bora,xkar@example.com,5117261150,Yelahanka,Bangalore,16-10-2023,Male,Regular
+CUST0476,Chatura Parikh,anusha89@example.net,9.10246E+11,Indiranagar,Bangalore,05-02-2024,Female,Regular
+CUST0477,Leela Tandon,nilima55@example.net,1776951232,Jayanagar,Bangalore,05-05-2023,Female,Premium
+CUST0478,Gunbir Warrior,sachimorar@example.org,9.15311E+11,BTM Layout,Bangalore,25-04-2023,Male,Premium
+CUST0479,Sarthak Bhatti,luke98@example.org,9.14071E+11,Electronic City,Bangalore,22-06-2023,Female,Premium
+CUST0480,Parth Sanghvi,rayaanlad@example.com,4160094821,Koramangala,Bangalore,19-11-2023,Female,Regular
+CUST0481,Thomas Bora,egour@example.com,4502859077,BTM Layout,Bangalore,03-07-2023,Male,Regular
+CUST0482,Tanish Maharaj,palwakeeta@example.org,9.1415E+11,Marathahalli,Bangalore,22-01-2023,Male,Premium
+CUST0483,Idika Boase,okashyap@example.net,2126789000,Marathahalli,Bangalore,19-05-2024,Male,Regular
+CUST0484,Hemang Bhattacharyya,nandini12@example.org,5683389912,Electronic City,Bangalore,11-08-2023,Other,Premium
+CUST0485,Janaki Vora,qadim21@example.org,7532755423,Hebbal,Bangalore,12-08-2024,Female,Regular
+CUST0486,Jyoti Dubey,raghavanrajata@example.net,9.18417E+11,Indiranagar,Bangalore,05-01-2023,Male,Regular
+CUST0487,Prisha Raju,zansiwable@example.com,1302542264,Whitefield,Bangalore,10-10-2024,Other,Premium
+CUST0488,Abeer Behl,hvaidya@example.org,6967860171,Yelahanka,Bangalore,17-04-2024,Female,Regular
+CUST0489,Bimala Rana,baniktristan@example.com,4052778857,HSR Layout,Bangalore,12-08-2023,Female,Regular
+CUST0490,Bina Parikh,sacharwazir@example.org,5509671085,BTM Layout,Bangalore,05-07-2023,Other,Premium
+CUST0491,Vinaya Viswanathan,ssachdev@example.net,9180594982,Indiranagar,Bangalore,22-12-2023,Male,Premium
+CUST0492,Shaurya Krishnamurthy,guneetbanerjee@example.com,5337415633,Rajajinagar,Bangalore,24-01-2024,Other,Regular
+CUST0493,Zayyan Peri,wpuri@example.com,6080349221,Rajajinagar,Bangalore,05-02-2024,Male,Regular
+CUST0494,Lekha Bali,indrajitbalakrishnan@example.org,3398805701,BTM Layout,Bangalore,15-08-2023,Male,Regular
+CUST0495,Zaid Kade,qgara@example.net,1320360744,Rajajinagar,Bangalore,06-07-2023,Female,Regular
+CUST0496,Eesha Nanda,ekbal93@example.org,5483483907,Indiranagar,Bangalore,03-06-2024,Other,Premium
+CUST0497,Xavier Chaudhry,dipta53@example.com,7625694900,Yelahanka,Bangalore,22-02-2023,Other,Regular
+CUST0498,Gaurangi Puri,nirjamadan@example.net,6906036317,Yelahanka,Bangalore,30-01-2024,Male,Regular
+CUST0499,Janaki Rajagopal,nishabaria@example.com,990836270,Koramangala,Bangalore,01-01-2024,Other,Regular
+CUST0500,Hemani Bose,rluthra@example.org,4273465930,Jayanagar,Bangalore,17-10-2023,Other,Regular

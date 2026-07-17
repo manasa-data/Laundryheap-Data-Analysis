@@ -1,0 +1,61 @@
+rider_id,rider_name,phone,area_assigned,vehicle_type,joining_date,rating,total_deliveries,is_active
+RIDER001,Nihal Bail,9.15568E+11,Indiranagar,Bicycle,06-10-2022,4.5,262,TRUE
+RIDER002,Rachana Prasad,2982885788,Hebbal,Bicycle,25-08-2022,3.3,1168,TRUE
+RIDER003,Vasatika Pau,5733475732,Malleshwaram,Bike,01-01-2023,5,1030,TRUE
+RIDER004,Ekani Soni,6591781079,Whitefield,Bike,29-12-2022,3.3,462,TRUE
+RIDER005,Vidhi Srinivas,8332341767,HSR Layout,Bike,04-11-2022,4.9,1105,TRUE
+RIDER006,Priya Srivastava,8624789987,Yelahanka,Bicycle,11-10-2022,3.3,441,TRUE
+RIDER007,Advik Swamy,9.17726E+11,Koramangala,Scooter,10-11-2022,3.7,803,TRUE
+RIDER008,Ekani Issac,8703767881,BTM Layout,Scooter,22-12-2022,4.8,841,TRUE
+RIDER009,Nandini Jain,4970025717,Whitefield,Bicycle,14-01-2023,3.9,1113,TRUE
+RIDER010,Vrishti Johal,1196557632,Indiranagar,Scooter,16-12-2022,3.3,419,TRUE
+RIDER011,Jason Mane,3132955696,Marathahalli,Bike,05-08-2022,3.8,655,TRUE
+RIDER012,Kamya Pant,9.15293E+11,Rajajinagar,Scooter,17-12-2022,3.5,959,TRUE
+RIDER013,Pooja Goda,1207664960,Koramangala,Scooter,18-11-2022,4.3,940,TRUE
+RIDER014,Priya Shan,911096972,Koramangala,Bike,09-12-2022,3.9,377,FALSE
+RIDER015,Joshua Mohanty,4649418950,Whitefield,Scooter,22-12-2022,3.3,187,TRUE
+RIDER016,Yug Bhatt,9.15741E+11,Malleshwaram,Bicycle,22-11-2022,3.9,116,TRUE
+RIDER017,Bakhshi Narain,9.10079E+11,Malleshwaram,Bicycle,26-11-2022,3.9,207,TRUE
+RIDER018,Imaran Dey,9.1683E+11,Yelahanka,Bicycle,06-12-2022,3.8,620,TRUE
+RIDER019,Nisha Srinivas,5317517468,Indiranagar,Bike,15-09-2022,4.1,842,FALSE
+RIDER020,Zarna Chandra,9.10258E+11,Indiranagar,Bicycle,14-10-2022,4.5,489,FALSE
+RIDER021,Yutika Kale,9.12953E+11,Jayanagar,Scooter,11-01-2023,3.6,327,TRUE
+RIDER022,Umang Soni,9287400839,Electronic City,Bike,24-12-2022,5,704,TRUE
+RIDER023,Azaan More,9.12175E+11,Hebbal,Bike,03-02-2023,4.2,664,TRUE
+RIDER024,Anmol Rattan,8790610624,Hebbal,Scooter,10-09-2022,4.6,1091,TRUE
+RIDER025,Baljiwan Baral,9.17123E+11,HSR Layout,Bike,04-10-2022,4.6,103,TRUE
+RIDER026,Triveni Krishna,6697434384,Rajajinagar,Bicycle,02-01-2023,4.6,1179,TRUE
+RIDER027,Bachittar Sanghvi,971322746,Indiranagar,Bike,02-11-2022,3.9,1030,TRUE
+RIDER028,Yashvi Nagy,6351163847,BTM Layout,Scooter,02-08-2022,3.4,699,TRUE
+RIDER029,Chandran Sanghvi,9.11015E+11,Electronic City,Bicycle,21-01-2023,3.8,1179,TRUE
+RIDER030,Dhruv Ratta,1020594712,Whitefield,Bike,20-12-2022,4.1,163,TRUE
+RIDER031,Bhavya Mohan,5660906124,Yelahanka,Bike,31-10-2022,3.5,710,FALSE
+RIDER032,Tripti Wason,1726672060,HSR Layout,Bicycle,22-01-2023,4.8,211,TRUE
+RIDER033,Vanya Shetty,721770913,Malleshwaram,Scooter,19-10-2022,3.4,670,TRUE
+RIDER034,Jhalak Sule,4050003532,Indiranagar,Scooter,08-09-2022,4.3,365,TRUE
+RIDER035,Ati Palan,7176498828,Rajajinagar,Scooter,25-02-2023,3.8,134,TRUE
+RIDER036,Dalaja Sodhi,1094831925,Koramangala,Bike,22-07-2022,4.9,592,TRUE
+RIDER037,Advika Soman,1284951012,Rajajinagar,Bicycle,16-07-2022,4.1,1167,TRUE
+RIDER038,Chameli Kalita,4603335483,Jayanagar,Bicycle,08-10-2022,4.6,881,TRUE
+RIDER039,Indrajit Sridhar,9.10838E+11,Indiranagar,Scooter,28-07-2022,3.5,901,TRUE
+RIDER040,Daksha Palla,4378473690,HSR Layout,Bicycle,25-02-2023,3.5,703,TRUE
+RIDER041,Chakrika Bali,2146987471,Marathahalli,Bicycle,24-08-2022,4.6,1104,TRUE
+RIDER042,Neel Balay,5784071272,Marathahalli,Bike,02-01-2023,3.4,970,TRUE
+RIDER043,Rehaan Parmer,391884743,Indiranagar,Bike,25-10-2022,4.9,906,TRUE
+RIDER044,Libni Sahota,4129402291,Whitefield,Bicycle,14-02-2023,4.5,438,TRUE
+RIDER045,Wriddhish Sachar,4273312848,Electronic City,Scooter,02-01-2023,4.1,681,TRUE
+RIDER046,Vritti Ahuja,9.14793E+11,Indiranagar,Bicycle,17-01-2023,4,543,TRUE
+RIDER047,Ladli Gera,9.16759E+11,Marathahalli,Bike,24-07-2022,3.7,1013,TRUE
+RIDER048,Hardik Parmer,2707336615,Koramangala,Bike,19-12-2022,3.4,591,TRUE
+RIDER049,Edhitha Parmar,3676007375,BTM Layout,Bicycle,22-07-2022,3.9,1200,TRUE
+RIDER050,Urishilla Saha,5437693181,Yelahanka,Bicycle,02-08-2022,3.9,972,TRUE
+RIDER051,Isaac Bhakta,7313962978,Jayanagar,Scooter,27-02-2023,3.4,248,TRUE
+RIDER052,Ekansh Lal,4245276122,Marathahalli,Scooter,23-11-2022,4.6,457,TRUE
+RIDER053,Champak Patla,9.15901E+11,BTM Layout,Scooter,20-07-2022,3.3,330,TRUE
+RIDER054,Laban Shukla,6807414899,Electronic City,Scooter,29-12-2022,3.5,1105,TRUE
+RIDER055,Kashish Ahuja,2826028751,Rajajinagar,Bicycle,06-09-2022,3.9,662,TRUE
+RIDER056,Advay Bhatnagar,1306031329,Yelahanka,Scooter,27-01-2023,4.1,663,TRUE
+RIDER057,Ekalinga Anne,6467652351,Koramangala,Bicycle,10-11-2022,4.4,903,TRUE
+RIDER058,Janya Pai,6710003582,Hebbal,Scooter,15-07-2022,4.3,593,FALSE
+RIDER059,Charvi Boase,7334670551,Rajajinagar,Scooter,01-10-2022,4.5,1033,TRUE
+RIDER060,Pranit Sane,9.13024E+11,Malleshwaram,Scooter,29-11-2022,3.5,546,TRUE

@@ -1,0 +1,9 @@
+facility_id,facility_name,location,capacity_per_day,operating_since,manager_name,is_operational
+FAC01,Laundryheap Center - Hebbal,Hebbal,150,26-09-2022,Pranav Dara,TRUE
+FAC02,Laundryheap Center - Indiranagar,Indiranagar,150,05-12-2022,Oviya Raja,TRUE
+FAC03,Laundryheap Center - HSR Layout,HSR Layout,80,02-10-2022,Unnati Garde,TRUE
+FAC04,Laundryheap Center - Koramangala,Koramangala,100,06-08-2022,Azad Krishna,TRUE
+FAC05,Laundryheap Center - Electronic City,Electronic City,150,24-07-2022,Tamanna Dey,TRUE
+FAC06,Laundryheap Center - Whitefield,Whitefield,100,28-06-2022,Yashasvi Chakrabarti,TRUE
+FAC07,Laundryheap Center - Rajajinagar,Rajajinagar,120,01-08-2022,Eesha Madan,TRUE
+FAC08,Laundryheap Center - Malleshwaram,Malleshwaram,120,25-08-2022,Sanaya Karan,TRUE
